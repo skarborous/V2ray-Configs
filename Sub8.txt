@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.204.212:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.204.212:80
-vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@77.74.228.97:2087?security=tls&sni=mositr.freenods.sbs&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇧🇦 BA-77.74.228.97:2087
-vless://198d91bf-b239-4588-ac19-70b398003e0c@172.67.142.187:2096?security=tls&sni=selincchanelselinc.jdyece.workers.dev&type=ws&host=selincchanelselinc.jdyece.workers.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.142.187:2096
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@172.84.93.56:24167?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇯🇵 JP-172.84.93.56:24167
 vless://fae30f40-620f-4622-8845-0007a2d5ad1e@104.18.219.101:2087?security=tls&sni=freakv2.tm-online.xyz&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.219.101:2087
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.59.218.144:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.59.218.144:443
 vless://50b68499-fda4-4e56-bbfd-b608284f1a0f@95.164.117.128:2003?security=tls&sni=de2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇩🇪 DE-95.164.117.128:2003
@@ -603,3 +599,7 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@147.78.140.5:443?security=tls&sni=j
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.219.195:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.219.195:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@31.43.179.29:443?security=tls&sni=zdy00.kpcloud.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.29:443
 vless://349956b8-b0c8-45ac-acb9-ed7881fc88b1@162.159.136.232:2083?security=tls&sni=worker-calm-rice-ce3a.alanaziziyani88aa79.workers.dev&type=ws&host=worker-calm-rice-ce3a.alanaziziyani88aa79.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.136.232:2083
+vless://36bd0a40-40d8-4f89-94ce-82e83a7c065b@162.159.153.4:443?security=tls&sni=DisVpn.us.kg&type=ws&host=DisVpn.us.kg&path=/---------DisVpn---------DisVpn---------DisVpn&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.4:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.145.31:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.145.31:80
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@104.19.193.32:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.193.32:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.104.45:443?security=tls&sni=jp555.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.45:443
